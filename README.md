@@ -1,8 +1,8 @@
  - 👋 Hi, I’m @danieldev96
 - 👀 I’m interested in programação.
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning  sobre git e git hub.
+- 💞️ I’m looking to  conhecimento ilimitado
+
           
 <!---
 danieldev96/danieldev96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
